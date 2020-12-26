@@ -9,3 +9,6 @@
     -webkit-justify-content: start;
             justify-content: start;
 }
+input{
+    display:none;
+}
