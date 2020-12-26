@@ -3,18 +3,7 @@
     display: -webkit-flex;
     display: flex;
 }
-body {
-    display: -webkit-box; /* wkhtmltopdf uses this one */
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-   -webkit-box-pack: center; /* wkhtmltopdf uses this one */
-   -webkit-justify-content: center;
-            justify-content: center;
-    -webkit-flex-wrap: wrap;
-    flex-wrap: wrap;
-  
-}
+
 
 .justify-content-start{
 -webkit-box-pack: start; /* wkhtmltopdf uses this one */
