@@ -9,6 +9,9 @@
     -webkit-justify-content: start;
             justify-content: start;
 }
-input{
-    display:none;
+.input-group {
+    display: none !important;
+}
+label{
+	display: none !important;
 }
