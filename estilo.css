@@ -3,6 +3,14 @@
     display: -webkit-flex;
     display: flex;
 }
+body {
+    display: -webkit-box; /* wkhtmltopdf uses this one */
+    display: -webkit-flex;
+    display: flex;
+   -webkit-box-pack: start; /* wkhtmltopdf uses this one */
+    -webkit-justify-content: start;
+            justify-content: start;
+}
 
 .justify-content-start{
 -webkit-box-pack: start; /* wkhtmltopdf uses this one */
