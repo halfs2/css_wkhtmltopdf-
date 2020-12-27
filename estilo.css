@@ -24,3 +24,7 @@ label{
 .container{
 	margin-bottom: 16px !important;
 }
+
+table{
+    text-align: center !important;
+}
