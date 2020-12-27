@@ -17,6 +17,10 @@ label{
 	display: none !important;
 }
 
+.btn{
+	display: none !important;	
+}
+
 .container{
 	margin-bottom: 16px !important;
 }
