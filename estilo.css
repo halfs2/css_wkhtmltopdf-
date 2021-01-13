@@ -49,6 +49,11 @@ button{
 	background-color: #f8d7da;
 	border-color: #f5c6cb;
 }
+.alert-info {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
 .alert {
 	<!-- position: relative; -->
 	padding: 0.75rem 1.25rem;
